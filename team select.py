@@ -35,4 +35,3 @@ for k in options_rooms:
     print(k)
 key_select = input("please type in TEAM name you wish to use leave blank for no team  ")
 final_key = options_rooms[key_select]
-print(final_key)
