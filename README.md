@@ -4,3 +4,13 @@
 
 import requests 
 *NEEDED*!!!!!!!
+
+
+All distro lists need to be imported from the outlook to or from field. A simply copy and paste is mandatory.
+filter might not function correctly. I do not have time to fuzz test
+
+
+
+if shit breaks email me at joepenafiel52@gmail.com
+
+
