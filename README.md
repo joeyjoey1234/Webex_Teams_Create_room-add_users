@@ -11,6 +11,6 @@ filter might not function correctly. I do not have time to fuzz test
 
 
 
-if shit breaks email me at joepenafiel52@gmail.com
+if breaks email me at joepenafiel52@gmail.com
 
 
