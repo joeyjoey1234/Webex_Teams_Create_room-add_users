@@ -55,7 +55,7 @@ create_room = requests.api.post(url=url_create_room,data=None,json=data_createro
 room_id = create_room.text
 room_id = str(room_id)
 room_id = room_id.split(',',1)
-room_id =room_id[0]
+room_id = room_id[0]
 room_id = room_id.split('"')
 room_id = room_id[3]
 room_id = str(room_id)
