@@ -11,7 +11,7 @@ email_list = email_list.split()
 
 final_email_list = []
 for x in email_list:
-    if 'wwt.com' in x:
+    if '@' in x:
         final_email_list.append(x)
 
 
