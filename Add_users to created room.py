@@ -1,7 +1,7 @@
 import requests
 from requests.auth import HTTPBasicAuth
-auth_key= 'YzM0YWNhMmQtOGQ4OC00ZjVjLWFlZDYtYjNlZGNjNjk2YThjOWUxYTkxNTctYmFi_PF84_f88c9535-c5ce-4eb5-b166-be95180e4c32'
-team_ID= 'Y2lzY29zcGFyazovL3VzL1RFQU0vYmY5NTQ4NTAtNmE4Zi0xMWU5LTljMTMtMzcwNDgzOWNjZTZj'
+auth_key= 'Fake Auth key'
+team_ID= 'Fake Team ID'
 room_title= 'here we go again111'
 url_create_room = 'https://api.ciscospark.com/v1/rooms'
 
