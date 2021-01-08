@@ -1,6 +1,6 @@
 import requests
 
-auth_key= 'YzM0YWNhMmQtOGQ4OC00ZjVjLWFlZDYtYjNlZGNjNjk2YThjOWUxYTkxNTctYmFi_PF84_f88c9535-c5ce-4eb5-b166-be95180e4c32'
+auth_key= 'Fake Auth Key'
 
 url_list_teams = 'https://api.ciscospark.com/v1/teams'
 
